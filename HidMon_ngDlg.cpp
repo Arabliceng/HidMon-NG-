@@ -6,6 +6,18 @@
 #include "HidMon_ngDlg.h"
 #include "ttest.h"
 #include <time.h>
+
+
+
+#include <lmcons.h>
+
+#include <atlbase.h>
+
+#include <winbase.h>
+
+
+
+
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #undef THIS_FILE
